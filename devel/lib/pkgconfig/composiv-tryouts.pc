@@ -1,0 +1,8 @@
+prefix=/home/aylinbaykan/catkin_ws/devel
+
+Name: composiv-tryouts
+Description: Description of composiv-tryouts
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
